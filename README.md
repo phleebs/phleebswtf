@@ -1,4 +1,4 @@
 # What The Heck Is Phleebs
 
 
-An introduction to everything Phleebs https://phleebs.wtf
+An Introduction To Everything Phleebs https://phleebs.wtf
